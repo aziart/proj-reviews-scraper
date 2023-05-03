@@ -33,7 +33,7 @@ def index():
             commentboxes = prod_html.find_all('div', {'class': "_16PBlm"})
 
             filename = searchString + ".csv"
-            fw = open("03 - Web applications (Microservices)/0409 - Flask Review and Scraper/Review Flask/" + filename, "w")
+            fw = open(filename, "w")
             headers = "Product, Customer Name, Rating, Heading, Comment \n"
             fw.write(headers)
             reviews = []
