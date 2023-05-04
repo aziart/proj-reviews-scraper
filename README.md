@@ -3,7 +3,7 @@
 •••••••••••••  
 :o: Deployed microservice with [Azure](https://azure.microsoft.com/):  
 [:radio_button: VISIT WEBPAGE](https://proj-reviews-scraper.azurewebsites.net) in order to see how it works.  
-Just type name of item you are interested in (e.g. Macabook Pro) and submit.
+Just type name of item you are interested in (e.g. Macbook Pro) and submit.
 
 :o: How to execute on local machine:
 > :small_blue_diamond: Step 1 : pip install -r requirements.txt to your python env (preferred python version is in [runtime.txt](https://github.com/aziart/proj-reviews-scraper/blob/main/runtime.txt) file)  
