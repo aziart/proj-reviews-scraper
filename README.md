@@ -1,8 +1,8 @@
 # RERVIEWS SCRAPER
 ## flipkart.com items' reviews scraper project
 •••••••••••••  
-:o: Deployed microservice with [heroku](http://heroku.com/):  
-[:radio_button: VISIT WEBPAGE](https://proj-reviews-scraper.herokuapp.com) in order to see how it works.  
+:o: Deployed microservice with [Azure](https://azure.microsoft.com/):  
+[:radio_button: VISIT WEBPAGE](https://proj-reviews-scraper.azurewebsites.net) in order to see how it works.  
 Just type name of item you are interested in (e.g. Macabook Pro) and submit.
 
 :o: How to execute on local machine:
